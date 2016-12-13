@@ -21,7 +21,7 @@ using namespace std;
  * 
  */
 int main() {
-
+//Im now fooling with GIT in fool branch
     ring<string> myRing(3);
     myRing.add("one");
     myRing.add("two");
